@@ -11,6 +11,7 @@ h1 {
 .heading {
   background-image: url("./images/the-flatiron-building.png");
   color: white;
+  font-weight: bold;
 }
 h3 {
   font-size: 23px;
@@ -24,10 +25,5 @@ h3 {
 }
 .Nav{
   font-size: 18px;
-  color: white;
-}
-.Menu
-{
-  font-weight: bold;
   color: white;
 }
